@@ -1,0 +1,11 @@
+[
+    {
+        "keyword": "keyword1",
+        "platforms": {
+            "google": ["example suggestion 1", "example suggestion 2"],
+            "amazon": ["amazon suggestion 1", "amazon suggestion 2"],
+            "youtube": ["youtube suggestion 1", "youtube suggestion 2"]
+        },
+        "timestamp": "2025-01-08T01:16:10.368Z"
+    }
+]
